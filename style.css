@@ -1,0 +1,39 @@
+body{
+    height:10000px;
+    width:80%;
+    margin:5% 10% 5% 10%;
+
+}
+
+.blank1{
+    height:10%;
+    width:100%;
+}
+
+.stick1{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+}
+
+.stick2{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 200px;
+}
+
+.stick3{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 300px;
+}
+
+.stick4{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 400px;
+}
+p{
+    letter-spacing: 4.5px;
+    line-height: 3.0;
+}
