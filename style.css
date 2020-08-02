@@ -1,40 +1,140 @@
 body{
-    height:10000px;
-    width:60%;
-    margin:5% 20% 5% 20%;
-
+    height:48000px;
+    width:80%;
+    margin:10% 10% 10% 10%;
+}
+.Para1{
+    height:41700px;
+}
+.Para2{
+    height:5000px;
+    width:90%;
+    margin:10% 5% 10% 5%;
+}
+.Para3{
+    height:5000px;
+}
+.blank{
+    height:15%;
+    width:100%;
+}
+.blank500{
+    height:500px;
+    width:100%;
 }
 
-.blank1{
-    height:10%;
+.blank1000{
+    height:1000px;
+    width:100%;
+}
+
+.blank1500{
+    height:1500px;
+    width:100%;
+}
+
+.blank2000{
+    height:2000px;
+    width:100%;
+}
+
+.blank3000{
+    height:3000px;
     width:100%;
 }
 
 .stick1{
     position: -webkit-sticky;
     position: sticky;
-    top: 50px;
+    top: 75px;
+    text-align: left;
 }
 
 .stick2{
     position: -webkit-sticky;
     position: sticky;
-    top: 200px;
+    top: 150px;
+    padding-left:30%;
 }
 
 .stick3{
     position: -webkit-sticky;
     position: sticky;
-    top: 300px;
+    top: 225px;
+    padding-left:30%;
 }
 
 .stick4{
     position: -webkit-sticky;
     position: sticky;
+    top: 300px;
+    padding-left:30%;
+}
+
+.stick5{
+    position: -webkit-sticky;
+    position: sticky;
     top: 400px;
+    padding-left:30%;
+}
+.stick6{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 475px;
+    padding-left:30%;
+}
+.stick7{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 575px;
+    padding-left:30%;
+}
+
+.stick8{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 370px;
+    padding-left:460px;
+}
+.stick9{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 420px;
+    padding-left:520px;
+}
+.stick10{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 150px;
+}
+.stick11{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 340px;
+}
+.stick12{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 470px;
+}
+.stick13{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 630px;
+    padding-left:410px;
+}
+.stick14{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 630px;
+    padding-left:515px;
 }
 p{
-    letter-spacing: 6px;
-    line-height: 3.5;
-    font-size: 18px;
+    letter-spacing: 4.5px;
+    line-height: 2;
+}
+
+#holder{
+    height:31000px;
+
 }
